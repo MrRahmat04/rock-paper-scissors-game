@@ -53,7 +53,7 @@ rock-paper-scissors-game/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/rock-paper-scissors-game.git
+   git clone https://github.com/MrRahmat04/rock-paper-scissors-game.git
    ```
 
 2. Open the project folder.
@@ -91,7 +91,7 @@ Through this project, I practiced:
 
 ## 👨‍💻 Author
 
-**MrRahmat04**
+**@MrRahmat04**
 
 - GitHub: https://github.com/MrRahmat04
 
