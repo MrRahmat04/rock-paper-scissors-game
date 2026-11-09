@@ -81,13 +81,6 @@ Through this project, I practiced:
 - Updating HTML elements dynamically.
 - CSS Flexbox and responsive design.
 
-## 🔮 Future Improvements
-
-- Add a Reset Score button.
-- Add sound effects.
-- Add best-of-5 game mode.
-- Add a game history section.
-- Improve mobile user experience.
 
 ## 👨‍💻 Author
 
